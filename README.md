@@ -1,1 +1,1 @@
-# genai_langchain_tutorial_campusx
+# GenAI using Langchain , HuggingFace
